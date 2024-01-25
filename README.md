@@ -17,6 +17,10 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
 
+```bash
+git clone https://www.linkedin.com/in/michael-mutinda-177619266
+```
+
 2. Navigate to the project directory:
 
 3. Open `index.html` in a web browser.
@@ -40,12 +44,6 @@ Contributions to this project are welcome. Please follow these steps to contribu
 2. Create a new branch for your feature or bug fix.
 3. Make your changes.
 4. Submit a pull request with a detailed description of your changes.
-
-## License
-
-This project is licensed under [Your License Name].
-
-## Acknowledgments
 
 Special thanks to everyone who contributed to this project.
 
