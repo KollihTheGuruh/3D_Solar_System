@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://www.linkedin.com/in/michael-mutinda-177619266
+git clone https://github.com/KollihTheGuruh/3D_Solar_System.git
 ```
 
 2. Navigate to the project directory:
